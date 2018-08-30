@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimlikDogrulama", "KimlikDogrulama\KimlikDogrulama.csproj", "{72C763F7-4A32-426C-A82B-87C5B95CDEE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimlikDogrulama", "KimlikDogrulama\KimlikDogrulama.csproj", "{7FDD15C5-4EFD-40DB-8A8D-AF514C386FA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{72C763F7-4A32-426C-A82B-87C5B95CDEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72C763F7-4A32-426C-A82B-87C5B95CDEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72C763F7-4A32-426C-A82B-87C5B95CDEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72C763F7-4A32-426C-A82B-87C5B95CDEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDD15C5-4EFD-40DB-8A8D-AF514C386FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDD15C5-4EFD-40DB-8A8D-AF514C386FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDD15C5-4EFD-40DB-8A8D-AF514C386FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDD15C5-4EFD-40DB-8A8D-AF514C386FA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4B9A478F-A3FF-439C-AD55-A86B6CD59282}
+		SolutionGuid = {8BCBF849-FBD1-4453-94F2-C56BFF6D4AB4}
 	EndGlobalSection
 EndGlobal
